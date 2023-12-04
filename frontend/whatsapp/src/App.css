@@ -1,0 +1,47 @@
+body{
+    background-color: #45a049;
+}
+.create-group-page {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-container {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #fcfcfc;
+    color:#135816;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #000;
+    color:#0ddd17;
+}
+
+.error  -message {
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.resultMessage {
+    color: #f44336;
+    margin-top: 10px;
+}
